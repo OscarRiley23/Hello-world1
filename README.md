@@ -1,4 +1,4 @@
-# My First Webpage
+# Hello World
 
 ## By Oscar Riley
 
@@ -12,7 +12,7 @@ This project is a simple example of the HTML language and how it looks in an int
 -----
 1. Clone this repository
 2. Enter directory
-3. Use "code my-first-webpage.html" to view in vs code
+3. Use "hello-world.html" to view in vs code
 
 ## Technologies Used
 ----
